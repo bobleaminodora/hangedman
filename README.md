@@ -55,7 +55,8 @@ La finalul fiecărui nivel:
 Mesaj de încurajare și salvare automată
 
 */
-///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////[nivel1.txt](https://github.com/user-attachments/files/19954737/nivel1.txt)detectiv arma criminal ancheta pistol martor procuror coruptie gangster sirena arest judecator tribunal crima dovada santaj urmarire suspans mister agent infiltrat coruptia arestat tribunalul pedeapsa echipa interceptare droguri mafie politie arma crime marturie tinta urmarit rapire cautare scotocire santaj acuzat avocat legitima jurnalist informator filmare laborator ADN patrula secventa criminalisti anchetator captura perchezitie victima agresor raportru masina masina politie revolver pistolero catuse penitenciar evadare evadat indiciu proces inchisoare politie locotenent comisar inspector procuror general ancheta speciala dubla crima caz neelucidat suspect scena probe armament detectivul arma alba arma foc glont urme mobil identificare amprente hacker banci seif jaf masca vanzator complice strain
+
 nivel1.txt
 
 detectiv arma criminal ancheta pistol martor procuror coruptie gangster sirena arest judecator tribunal crima dovada santaj urmarire suspans mister agent infiltrat coruptia arestat tribunalul pedeapsa echipa interceptare droguri mafie politie arma crime marturie tinta urmarit rapire cautare scotocire santaj acuzat avocat legitima jurnalist informator filmare laborator ADN patrula secventa criminalisti anchetator captura perchezitie victima agresor raportru masina masina politie revolver pistolero catuse penitenciar evadare evadat indiciu proces inchisoare politie locotenent comisar inspector procuror general ancheta speciala dubla crima caz neelucidat suspect scena probe armament detectivul arma alba arma foc glont urme mobil identificare amprente hacker banci seif jaf masca vanzator complice strain
